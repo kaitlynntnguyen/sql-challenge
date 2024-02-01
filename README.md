@@ -1,4 +1,4 @@
-For this project, I was taked with designing the tables to hold the data from the CSV files, importing the CSV files into a SQL database, and answering questions about the data. 
+For this project, I was tasked with designing the tables to hold the data from the CSV files, importing the CSV files into a SQL database, and answering questions about the data. 
 
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
